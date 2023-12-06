@@ -1,5 +1,1 @@
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Black+Ops+Modder;Estudante+de+Enxeñaría+Informática+na+UDC;Software+Engineering+at+UDC">
-  </a>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Road+Rage&duration=3000&pause=200&color=23F2F7&center=true&vCenter=true&random=false&width=435&lines=Black+Ops+Modder;Estudante+de+Enxe%C3%B1ar%C3%ADa+Inform%C3%A1tica+na+UDC;Software+Engineering+at+UDC" alt="Typing SVG" /></a>
