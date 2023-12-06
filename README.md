@@ -1,5 +1,11 @@
-h2 align=center
-  a href=httpsgit.iotyping-svg
-    img src=httpsreadme-typing-svg.demolab.comlines=Black+Ops+Modder;Estudante+de+Enxeñaría+Informática+na+UDC;Software+Engineering+Student+at+UDC
-  a
-h1
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=¡Hola!+👋;+Soy+Pablo+Portas+López;Estudante+de+Enxeñería+Informática;Computer+Engineering+Student+at+the+UDC">
+  </a>
+</h1>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,c,python,cloudflare,discord,bots,linux,md,py" />
+  </a>
+</p>
