@@ -1,6 +1,6 @@
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=¡Hola!+👋;+Soy+Pablo+Portas+López;Estudante+de+Enxeñería+Informática;Computer+Engineering+Student+at+the+UDC">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Black+Ops+Modder;Estudante+de+Enxeñaría+Informática+na+UDC;Software+Engineering">
   </a>
 </h1>
 
